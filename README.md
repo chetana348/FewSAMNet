@@ -22,6 +22,8 @@ src/
 │                          # (dataset paths, hyperparameters, SAM settings)
 │
 └── datagen.py             # Dataset loader and preprocessing pipeline
+
+
 ### Root-Level Scripts
 - **train.py** — Training loop for FewSAMNet  
 - **test.py** — Evaluation & inference script
@@ -62,6 +64,7 @@ Run the training script:
 
 ```bash
 python train.py --config src/config.py
+```
 
 ## 📄 License
 
