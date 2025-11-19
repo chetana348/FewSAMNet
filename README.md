@@ -9,6 +9,7 @@ The work was presented at **CAIMI 2025**.
 https://link.springer.com/article/10.1007/s10278-025-01679-0
 
 ## 📁 Code Repository Structure
+```bash
 src/
 ├── models/
 │   ├── network1.py        # Proposed FewSAMNet (Hybrid SAM–CNN architecture)
@@ -22,7 +23,7 @@ src/
 │                          # (dataset paths, hyperparameters, SAM settings)
 │
 └── datagen.py             # Dataset loader and preprocessing pipeline
-
+```
 
 ### Root-Level Scripts
 - **train.py** — Training loop for FewSAMNet  
