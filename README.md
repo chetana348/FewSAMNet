@@ -78,6 +78,13 @@ For more details, see the [`LICENSE`](LICENSE) file included in the repository.
 
 If you have questions, encounter issues, or want to request new features, feel free to open an issue.
 
+## 🔗 Follow-Up Work
+
+For extended experiments, updated modules, and successor architectures to FewSAMNet, please visit the follow-up repository:
+
+👉 **KRSAMNet — Next-Generation Hybrid SAM Framework**  
+https://github.com/chetana348/KRSAMNet
+
 
 
 
